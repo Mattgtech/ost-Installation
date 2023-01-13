@@ -22,12 +22,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>osTicket Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
+- Enable IIS w/CGI
+- PHP Manager for IIS 
+- Rewrite Module
+- PHP 7.3.8 
+- VC_redist.x86.exe
+- [
+](https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link)
 <h2>Installation Steps</h2>
 
 <p>
