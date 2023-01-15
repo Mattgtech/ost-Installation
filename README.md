@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - PHP Manager for IIS 
 - Rewrite Module
 - PHP 7.3.8 
-- VC_redist.x86.exe
+- Microsoft c++
 - Install osTicket
 </h2>
 
@@ -74,9 +74,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Agj8loR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The last part of the this Project requires admin setup, as well as the MSQL account setup. This is done within the php manger which is where all the installtions files were stored to and the reason being is because that's the only way to setup our ticketing system.
+  <b>Step 6:</b> Open and install <a href = "https://docs.google.com/document/d/1WovrX2DaS9xkfaSr4LXyB4YnnWpXIgPCMMbbfgHmGVw/edit">Heidi SQL</a> and create a new session, root/Password1. Then, connect to the session and create a database called “osTicket”. After that continue setting up osticket in the browser
+MySQL Database: osTicket
+MySQL Username: root
+MySQL Password: Password1
+Click “Install Now!”
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/VLckvD6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <b>CONGRATULATION🥳</b> This is how your browser should look like if you did everything correctly. I highly recommend to check out my youtube link that was provide in the beginning of this wriiten tutorial. If you have any questions, comments or concerns please message me through Linkedin.
 </p>
 <br />
