@@ -43,7 +43,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  <b>Step 2:<b/> Install the Installations files which are <a>PHP Manager</a> for IIS and <a>Rewrite Module "https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link" </a>. After Installing these files, the next step is to create a folder called "PHP" in "windowsc:" so that we can install PHP 7.3.8
+  <b>Step 2:<b/> Install the Installations files which are <a herf= PHPManager</a> for IIS and <a>Rewrite Module "https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link" </a>. After Installing these files, the next step is to create a folder called "PHP" in "windowsc:" so that we can install PHP 7.3.8
 </p>
 <br />
 
